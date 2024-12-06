@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9d3fcae-23fd-486b-9b95-aca9b1b990f3" name="Changes" comment="[ADD] KMeans and DBSCAN hyperparameter selection metrics">
+    <list default="true" id="f9d3fcae-23fd-486b-9b95-aca9b1b990f3" name="Changes" comment="[ADD] Finished Coding question 3 and Conceptual question 1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/clustering_iris.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/clustering_iris.ipynb" afterDir="false" />
     </list>
@@ -81,7 +81,7 @@
       <workItem from="1733018546199" duration="3953000" />
       <workItem from="1733426951728" duration="3880000" />
       <workItem from="1733453142670" duration="46000" />
-      <workItem from="1733510155610" duration="9104000" />
+      <workItem from="1733510155610" duration="12726000" />
     </task>
     <task id="LOCAL-00001" summary="[ADD] requirements.txt">
       <option name="closed" value="true" />
@@ -99,7 +99,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733516852862</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="[ADD] Finished Coding question 3 and Conceptual question 1">
+      <option name="closed" value="true" />
+      <created>1733520633682</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1733520633682</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -108,6 +116,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="[ADD] requirements.txt" />
     <MESSAGE value="[ADD] KMeans and DBSCAN hyperparameter selection metrics" />
-    <option name="LAST_COMMIT_MESSAGE" value="[ADD] KMeans and DBSCAN hyperparameter selection metrics" />
+    <MESSAGE value="[ADD] Finished Coding question 3 and Conceptual question 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="[ADD] Finished Coding question 3 and Conceptual question 1" />
   </component>
 </project>
