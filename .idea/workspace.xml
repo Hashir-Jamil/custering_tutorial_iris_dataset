@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9d3fcae-23fd-486b-9b95-aca9b1b990f3" name="Changes" comment="[ADD] requirements.txt">
+    <list default="true" id="f9d3fcae-23fd-486b-9b95-aca9b1b990f3" name="Changes" comment="[ADD] KMeans and DBSCAN hyperparameter selection metrics">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/clustering_iris.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/clustering_iris.ipynb" afterDir="false" />
     </list>
@@ -81,7 +81,7 @@
       <workItem from="1733018546199" duration="3953000" />
       <workItem from="1733426951728" duration="3880000" />
       <workItem from="1733453142670" duration="46000" />
-      <workItem from="1733510155610" duration="5674000" />
+      <workItem from="1733510155610" duration="9104000" />
     </task>
     <task id="LOCAL-00001" summary="[ADD] requirements.txt">
       <option name="closed" value="true" />
@@ -91,7 +91,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733023126194</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="[ADD] KMeans and DBSCAN hyperparameter selection metrics">
+      <option name="closed" value="true" />
+      <created>1733516852862</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1733516852862</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -99,6 +107,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="[ADD] requirements.txt" />
-    <option name="LAST_COMMIT_MESSAGE" value="[ADD] requirements.txt" />
+    <MESSAGE value="[ADD] KMeans and DBSCAN hyperparameter selection metrics" />
+    <option name="LAST_COMMIT_MESSAGE" value="[ADD] KMeans and DBSCAN hyperparameter selection metrics" />
   </component>
 </project>
