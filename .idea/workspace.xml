@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9d3fcae-23fd-486b-9b95-aca9b1b990f3" name="Changes" comment="[ADD] Touched up everything until final conceptual question." />
+    <list default="true" id="f9d3fcae-23fd-486b-9b95-aca9b1b990f3" name="Changes" comment="[ADD] .idea/* removed from version tracking">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clustering_iris.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/clustering_iris.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,6 +47,7 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;ASKED_MARK_IGNORED_FILES_AS_EXCLUDED&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/X1/PycharmProjects/eecs4412_assignment3_clustering&quot;,
@@ -78,7 +83,8 @@
       <workItem from="1733018546199" duration="3953000" />
       <workItem from="1733426951728" duration="3880000" />
       <workItem from="1733453142670" duration="46000" />
-      <workItem from="1733510155610" duration="13044000" />
+      <workItem from="1733510155610" duration="14048000" />
+      <workItem from="1733770594819" duration="7118000" />
     </task>
     <task id="LOCAL-00001" summary="[ADD] requirements.txt">
       <option name="closed" value="true" />
@@ -112,7 +118,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733524246150</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="[ADD] .idea/* removed from version tracking">
+      <option name="closed" value="true" />
+      <created>1733524609816</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1733524609816</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -123,6 +137,7 @@
     <MESSAGE value="[ADD] KMeans and DBSCAN hyperparameter selection metrics" />
     <MESSAGE value="[ADD] Finished Coding question 3 and Conceptual question 1" />
     <MESSAGE value="[ADD] Touched up everything until final conceptual question." />
-    <option name="LAST_COMMIT_MESSAGE" value="[ADD] Touched up everything until final conceptual question." />
+    <MESSAGE value="[ADD] .idea/* removed from version tracking" />
+    <option name="LAST_COMMIT_MESSAGE" value="[ADD] .idea/* removed from version tracking" />
   </component>
 </project>
